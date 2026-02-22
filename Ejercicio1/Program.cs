@@ -1,4 +1,4 @@
-namespace Ejercicio1
+namespace ProcesadorCSV_Dataset
 {
     internal static class Program
     {
